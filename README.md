@@ -27,3 +27,8 @@ A simple command-line calculator built using Python.
 
 ```bash
 python calculator.py
+---
+
+## Output Screenshot
+
+![Calculator Output](OUTPUT%201.png)
